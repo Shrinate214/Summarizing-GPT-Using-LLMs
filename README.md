@@ -1,6 +1,6 @@
 # Summarizing-GPT-Using-LLMs
 
-Once downloaded this reporsitory, Open the Integrated Terminal of VSCODE and Install the required Libraries
+Once you have downloaded this repository, Open the Integrated Terminal of VSCODE and Install the required Libraries
 1) Streamlit
 2) Pybase64
 3) PyPDF
